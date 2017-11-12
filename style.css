@@ -85,3 +85,18 @@ footer{
   font-size: 30px;
   margin 30px 0 0 0;
 }
+
+.questions .btn {
+  border-radius: 5px;
+  color: #FFF;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
+  }
+
+.questions .btn:hover {
+  background: #0069d9;
+  border-color: #0069d9;
+}
